@@ -1,0 +1,8 @@
+setup.py
+ICPDesign/CSG_object_V8.py
+ICPDesign/__init__.py
+ICPDesign.egg-info/PKG-INFO
+ICPDesign.egg-info/SOURCES.txt
+ICPDesign.egg-info/dependency_links.txt
+ICPDesign.egg-info/requires.txt
+ICPDesign.egg-info/top_level.txt

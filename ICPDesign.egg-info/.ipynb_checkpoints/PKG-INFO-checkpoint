@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ICPDesign
+Version: 1.0.0
+Summary: Library to perform multi constraint protein design
+Author: Larbi Zakaria Dahmani
+Author-email: ZAKARIA@pitt.edu
+Requires-Python: >=3.7
